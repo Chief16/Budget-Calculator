@@ -56,3 +56,9 @@
 hr{
     margin-top: 0;
 }
+
+@media screen and (max-width: 800px) {
+    .add-item-section{
+        margin: 8px;
+    }
+  }
